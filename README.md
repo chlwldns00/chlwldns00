@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - AJAX for api design
 ### 😄 Interest
 - Big data analysis
+- AI
 - data engineering
 - Using generative AI technology & API
 ### ⚡ available language
