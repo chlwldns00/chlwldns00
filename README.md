@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🔭 [Portfolio] (https://www.notion.so/Portporlio-49c974e74b8b4c1e988562ae2c4cf8f4)
+### 🌱 I’m currently learning ...
+- data analysis(R,python,pytorch,skitlearn)
+- api design(PHP)
+- AJAX for api design
+### 😄 Interest
+- Big data analysis
+- data engineering
+- Using generative AI technology & API
+### ⚡ available language
+- java(+ JDBC)
+- python(Especially -> Flask,pytorch,skitlearn)
+- PHP
+- C/C++
+
+[![최지운 github stats](https://github-readme-stats.vercel.app/api?username=chlwldns00)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chlwldns00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
