@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - Using generative AI technology & API
 ### ⚡ available language
 - java(+ JDBC)
+- sql query
 - python(Especially -> Flask,pytorch,skitlearn)
 - PHP
 - C/C++
