@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 ### 🔭 [Portfolio] (https://www.notion.so/Portporlio-49c974e74b8b4c1e988562ae2c4cf8f4)
 ### 🌱 I’m currently learning ...
-- data analysis(R,python,pytorch,skitlearn)
-- api design(PHP)
-- AJAX for api design
+- data analysis(R,python,pytorch)
+- Machine Learning(with scikitLearn) & DeepLearning 
+- PHP & AJAX for api design
 ### 😄 Interest
 - Big data analysis
-- AI
+- AI(generative AI, machineLearning)
 - data engineering
 - Using generative AI technology & API
 ### ⚡ available language
 - java(+ JDBC)
 - sql query
-- python(Especially -> Flask,pytorch,skitlearn)
+- python(library&framework -> Flask,pytorch,scikitlearn)
 - PHP
 - C/C++
 
