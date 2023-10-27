@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 ### 🔭 [Portfolio] (https://tar-wakeboard-4b0.notion.site/Portporlio-of-ME-49c974e74b8b4c1e988562ae2c4cf8f4?pvs=4)
 ### 🌱 I’m currently learning ...
 - data analysis(R,python,pytorch)
+- NLP
+- generative AI/Prompt-Engineering
 - Machine Learning(with scikitLearn) & DeepLearning 
 - PHP & AJAX for api design
 ### 😄 Interest
 - Big data analysis
+- NLP
 - AI(generative AI, machineLearning)
 - data engineering
 - Using generative AI technology & API
