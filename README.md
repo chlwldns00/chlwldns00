@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🔭 [Portfolio] (https://tar-wakeboard-4b0.notion.site/Portporlio-of-ME-49c974e74b8b4c1e988562ae2c4cf8f4?pvs=4)
+### 🔭 [Portfolio] (https://tar-wakeboard-4b0.notion.site/Portforlio-of-me-10b2ba8681978083bc1fcc5b5664b0be)
 ### 🌱 I’m currently learning ...
 - data analysis(R,python,pytorch)
 - NLP
 - generative AI/Prompt-Engineering
 - Machine Learning(with scikitLearn) & DeepLearning 
-- PHP & AJAX for api design
+- BI tool(PowerBI,Tableau,LookerStudio)
 ### 😄 Interest
 - Big data analysis
 - NLP
